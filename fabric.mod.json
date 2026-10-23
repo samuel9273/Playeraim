@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "playeraim",
+	"version": "${version}",
+	"name": "Player Aim",
+	"description": "Apunta automáticamente al jugador más cercano dentro de 10 bloques. Se activa con una tecla (G).",
+	"authors": ["Samuel"],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["com.example.playeraim.PlayerAimClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.0",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"key.playeraim.toggle": "Activar/desactivar Player Aim",
+	"key.category.playeraim.main": "Player Aim",
+	"message.playeraim.on": "Player Aim: ACTIVADO",
+	"message.playeraim.off": "Player Aim: DESACTIVADO"
+}
